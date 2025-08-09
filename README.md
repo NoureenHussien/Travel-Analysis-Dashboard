@@ -18,7 +18,7 @@ This project focuses on analyzing a dataset of travel details to understand cust
 ## 🛠️ Tools and Technologies
 
 - **Power BI:** Used for data modeling, visualization, and dashboard creation.
-- **[Travel details dataset]:** The primary dataset used for the analysis.
+- **Travel details dataset:** The primary dataset used for the analysis.
 
 ---
 
