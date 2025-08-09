@@ -1,5 +1,5 @@
 # Travel Analysis Dashboard
-# 📊 Travel Analysis Dashboard
+
 
 A data analysis project using Power BI to explore and visualize key trends and insights from a travel dataset.
 
