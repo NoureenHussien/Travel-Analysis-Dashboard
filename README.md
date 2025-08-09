@@ -37,10 +37,10 @@ The dashboards revealed several important findings:
 Here are screenshots of the interactive dashboards created for this project:
 
 1. **Travel Performance Summary:**  
-   ![Travel Performance Summary](images/dashboard1.png)
+   ![Travel Performance Summary](dashboard1.png)
    
 2. **Traveler Demographics & Preferences:**  
-   ![Traveler Demographics & Preferences](images/dashboard2.png)
+   ![Traveler Demographics & Preferences](dashboard2.png)
 
 ---
 
