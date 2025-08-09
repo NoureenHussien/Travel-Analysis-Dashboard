@@ -27,7 +27,7 @@ This project focuses on analyzing a dataset of travel details to understand cust
 The dashboards revealed several important findings:
 
 - **Cost vs. Destination:** Accommodation costs consistently made up the largest portion of total trip expenses, especially in popular destinations like London and Bali.
-- **Traveler Demographics:** The age group of 30-40 years old was the most active in travel.
+- **Traveler Demographics:** The age group of 25-30 years old was the most active in travel.
 - **Accommodation Preferences:** The choice of accommodation (e.g., Hotel, Airbnb, Resort) varied significantly by destination, likely influenced by local availability and traveler preferences.
 
 ---
