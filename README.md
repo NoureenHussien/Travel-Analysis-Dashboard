@@ -18,7 +18,7 @@ This project focuses on analyzing a dataset of travel details to understand cust
 ## 🛠️ Tools and Technologies
 
 - **Power BI:** Used for data modeling, visualization, and dashboard creation.
-- **[Dataset Name]:** The primary dataset used for the analysis. _(Specify if it’s a custom dataset or sourced from Kaggle, etc.)_
+- **[Travel details dataset]:** The primary dataset used for the analysis.
 
 ---
 
@@ -38,23 +38,9 @@ Here are screenshots of the interactive dashboards created for this project:
 
 1. **Travel Performance Summary:**  
    ![Travel Performance Summary](images/dashboard1.png)
-
-2. **Travel Cost Analysis:**  
-   ![Travel Cost Analysis](images/dashboard2.png)
-
-3. **Traveler Demographics & Preferences:**  
-   ![Traveler Demographics & Preferences](images/dashboard3.png)
+   
+2. **Traveler Demographics & Preferences:**  
+   ![Traveler Demographics & Preferences](images/dashboard2.png)
 
 ---
-
-## 📂 How to Use
-
-1. Open the `.pbix` Power BI file in Power BI Desktop.
-2. Explore the interactive dashboards to gain insights from the travel data.
-
----
-
-## 📬 Contact
-
-If you have any questions or feedback, feel free to reach out!
 
